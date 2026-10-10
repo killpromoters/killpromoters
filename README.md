@@ -1,4 +1,5 @@
-<img width="740" height="480" alt="image" src="https://github.com/user-attachments/assets/22ec85a5-4980-40e0-964d-dd7d56da815d" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6110f5b1-f4ff-4a06-8c91-b268c2d12b69" />
+
 
 [ataboo .’k](https://applefritter.atabook.org)
 
